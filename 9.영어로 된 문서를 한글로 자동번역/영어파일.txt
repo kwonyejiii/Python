@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 A barking dog never bites
 A big fish in a small pond
 No pain No gain
+=======
+A barking dog never bites
+A big fish in a small pond
+No pain No gain
+>>>>>>> 46be12439aef1acc1b128cc53dc407bca81bab44
